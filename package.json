@@ -1,0 +1,11 @@
+{
+  "name": "mapolist",
+  "version": "1.0.0",
+  "description": "게게시판판을을 시험삼아 만들어 본 웹 입니다. mysqt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
